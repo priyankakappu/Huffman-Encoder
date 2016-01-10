@@ -65,20 +65,6 @@ main()
 	displaylist(tolptr);
 	
 	
-	
-//	while(s[i] != '\0')
-//	{
-//		nptr = findnode (tol,s[i]);			/* To check if the node for the character s[i] is already created */
-//		if(nptr == NULL) 
-//		{
-//			sptr = makenode (s[i],1);		/* Make a node for s[i] and assign it to sptr */
-//			tol = attachnode (tol,sptr);	/* Attach sptr to the linked list */
-//		}
-//		else
-//			nptr->frequency++;				/* Increment frequency of nptr if the node for the character s[i] already exists */
-//	}
-//	i++;  
-	
 //Huffman tree
 /*
 	A: 100
